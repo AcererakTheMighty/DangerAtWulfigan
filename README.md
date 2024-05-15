@@ -1,0 +1,1 @@
+This is more or less me having fun with coding. This is perhaps my earliest project, it also shows my creative writing skills. Yes, I have played Kings Quest and Space Quest, in fact those were my big inspirations for this particular program. I do intend to come back to this one at some point, perhaps have little pop-ups for dialogue or something of the sort. 
